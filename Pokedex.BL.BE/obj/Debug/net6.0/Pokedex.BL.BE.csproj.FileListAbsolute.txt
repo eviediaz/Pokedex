@@ -1,0 +1,12 @@
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.BL.BE\bin\Debug\net6.0\Pokedex.BL.BE.deps.json
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.BL.BE\bin\Debug\net6.0\Pokedex.BL.BE.dll
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.BL.BE\bin\Debug\net6.0\Pokedex.BL.BE.pdb
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.BL.BE\obj\Debug\net6.0\Pokedex.BL.BE.csproj.AssemblyReference.cache
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.BL.BE\obj\Debug\net6.0\Pokedex.BL.BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.BL.BE\obj\Debug\net6.0\Pokedex.BL.BE.AssemblyInfoInputs.cache
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.BL.BE\obj\Debug\net6.0\Pokedex.BL.BE.AssemblyInfo.cs
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.BL.BE\obj\Debug\net6.0\Pokedex.BL.BE.csproj.CoreCompileInputs.cache
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.BL.BE\obj\Debug\net6.0\Pokedex.BL.BE.dll
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.BL.BE\obj\Debug\net6.0\refint\Pokedex.BL.BE.dll
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.BL.BE\obj\Debug\net6.0\Pokedex.BL.BE.pdb
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.BL.BE\obj\Debug\net6.0\ref\Pokedex.BL.BE.dll

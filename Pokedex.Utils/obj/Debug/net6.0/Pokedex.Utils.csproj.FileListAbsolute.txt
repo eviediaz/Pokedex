@@ -1,0 +1,14 @@
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\bin\Debug\net6.0\Pokedex.Utils.deps.json
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\bin\Debug\net6.0\Pokedex.Utils.dll
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\bin\Debug\net6.0\Pokedex.Utils.pdb
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\obj\Debug\net6.0\Pokedex.Utils.csproj.AssemblyReference.cache
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\obj\Debug\net6.0\Pokedex.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\obj\Debug\net6.0\Pokedex.Utils.AssemblyInfoInputs.cache
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\obj\Debug\net6.0\Pokedex.Utils.AssemblyInfo.cs
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\obj\Debug\net6.0\Pokedex.Utils.csproj.CoreCompileInputs.cache
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\obj\Debug\net6.0\Pokedex.Utils.dll
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\obj\Debug\net6.0\refint\Pokedex.Utils.dll
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\obj\Debug\net6.0\Pokedex.Utils.pdb
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\obj\Debug\net6.0\ref\Pokedex.Utils.dll
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\bin\Debug\net6.0\Pokedex.Utils.runtimeconfig.json
+C:\Users\evied\source\repos\Pokedex_Project\Pokedex.Utils\obj\Debug\net6.0\Pokedex.Utils.genruntimeconfig.cache
